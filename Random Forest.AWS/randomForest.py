@@ -2,9 +2,7 @@
 ###################################
 #Date: July 8, 2016
 #Purpose: Practice Random Forest
-#Data: titanic
-#source: https://www.youtube.com/watch?v=0GrciaGYzV0
-#source(Bokeh): https://www.youtube.com/watch?v=Mz1AXUE0nR4
+#Data: forestSV study
 ###################################
 
 ###################################
